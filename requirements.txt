@@ -1,0 +1,5 @@
+requests==2.31.0
+pyodbc==4.0.39
+python-dotenv==1.0.0
+smtplib==1.0.0
+email==5.0.0
