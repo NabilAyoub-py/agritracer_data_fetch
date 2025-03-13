@@ -1,0 +1,11 @@
+# Get yesterday's data
+python get_tvn.py --start-date 2024-03-19 --end-date 2024-03-19
+
+# Get data for the first week of March
+python get_tvn.py --start-date 2024-03-01 --end-date 2024-03-07
+
+# Get data for the entire month
+python get_tvn.py --start-date 2024-03-01 --end-date 2024-03-31
+
+#default behavior
+python get_tvn.py
